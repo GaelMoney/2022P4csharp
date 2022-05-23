@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp2Opdrachten", "Csharp2Opdrachten\Csharp2Opdrachten.csproj", "{AD1392F5-5A93-44BD-867A-2D9BCC499B72}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List maken", "List maken\List maken.csproj", "{52883D03-294F-461A-93B6-5B8750BEB06C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsOpdracht", "EnumsOpdracht\EnumsOpdracht.csproj", "{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{AD1392F5-5A93-44BD-867A-2D9BCC499B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1392F5-5A93-44BD-867A-2D9BCC499B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1392F5-5A93-44BD-867A-2D9BCC499B72}.Release|Any CPU.Build.0 = Release|Any CPU
-		{52883D03-294F-461A-93B6-5B8750BEB06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52883D03-294F-461A-93B6-5B8750BEB06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52883D03-294F-461A-93B6-5B8750BEB06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52883D03-294F-461A-93B6-5B8750BEB06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
