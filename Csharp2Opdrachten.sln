@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp2Opdrachten", "Csharp2Opdrachten\Csharp2Opdrachten.csproj", "{AD1392F5-5A93-44BD-867A-2D9BCC499B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsOpdracht", "EnumsOpdracht\EnumsOpdracht.csproj", "{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumsOpdracht", "EnumsOpdracht\EnumsOpdracht.csproj", "{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileDirOpdracht", "FileDirOpdracht\FileDirOpdracht.csproj", "{3C6592C0-F471-4117-B266-1C6F43BBFAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOOpdracht", "FileIOOpdracht\FileIOOpdracht.csproj", "{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99FDE43-A1BB-4290-8E4A-D0BB46D089F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6592C0-F471-4117-B266-1C6F43BBFAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6592C0-F471-4117-B266-1C6F43BBFAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6592C0-F471-4117-B266-1C6F43BBFAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6592C0-F471-4117-B266-1C6F43BBFAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
