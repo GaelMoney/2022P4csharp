@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumsOpdracht", "EnumsOpdra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileDirOpdracht", "FileDirOpdracht\FileDirOpdracht.csproj", "{3C6592C0-F471-4117-B266-1C6F43BBFAE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOOpdracht", "FileIOOpdracht\FileIOOpdracht.csproj", "{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileIOOpdracht", "FileIOOpdracht\FileIOOpdracht.csproj", "{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOpdracht", "StringOpdracht\StringOpdracht.csproj", "{5E0D24DC-91AB-4F58-9C35-EEA058E4C24C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038EFEB7-1E99-4A0D-9CB2-A011CB9FEEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0D24DC-91AB-4F58-9C35-EEA058E4C24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0D24DC-91AB-4F58-9C35-EEA058E4C24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0D24DC-91AB-4F58-9C35-EEA058E4C24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0D24DC-91AB-4F58-9C35-EEA058E4C24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
